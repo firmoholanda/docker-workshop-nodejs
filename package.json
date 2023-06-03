@@ -26,5 +26,14 @@
     "sqlite3": "^5.1.6",
     "uuid": "^9.0.0",
     "wait-port": "^1.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microverseinc/docker-workshop-nodejs.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/microverseinc/docker-workshop-nodejs/issues"
+  },
+  "homepage": "https://github.com/microverseinc/docker-workshop-nodejs#readme"
 }
